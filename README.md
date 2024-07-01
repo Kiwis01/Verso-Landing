@@ -1,2 +1,2 @@
-# Verso-Landing
-Verso landing page still in dev
+# VersoLandingPage
+Verso landing page 
